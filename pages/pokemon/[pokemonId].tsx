@@ -22,7 +22,7 @@ export const getStaticPaths = async() => {
     }
 }
 
-export const getStaticProps = async(context) => {
+export const getStaticProps = async(context:any) => {
     const id = context.params.pokemonId
 
     const res = await fetch(`https://pokeapi.co/api/v2/pokemon/${id}`)

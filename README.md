@@ -1,3 +1,11 @@
+## Project hosted on Vercel
+
+Access (https://poke-next-js-vinigiu.vercel.app/) to look at this project running.
+
+This isn't mobile optimized yet, so access it on a desktop/notebook browser for a better experience.
+
+----------------------------------------------------------------------------------------------------------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

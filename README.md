@@ -1,6 +1,6 @@
 ## Project hosted on Vercel
 
-Access (https://poke-next-js-vinigiu.vercel.app/) to look at this project running.
+Access [PokeNextJS](https://poke-next-js-vinigiu.vercel.app/) to look at this project running.
 
 This isn't mobile optimized yet, so access it on a desktop/notebook browser for a better experience.
 
